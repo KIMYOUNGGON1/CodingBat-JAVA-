@@ -28,3 +28,19 @@ U
 %src/main/java/warmup_1/FrontBack.java,a\1\a1d6766adf34cf1062657edd92211fd5401a7208
 R
 "src/main/java/warmup_1/Front3.java,8\2\82d38f3c585be4ba0e76cabe48ed573032dabcd9
+V
+&src/main/java/warmup_1/BackAround.java,2\e\2e0e741f6360f3c9e3044340ffa1897f1bd3db20
+P
+ src/main/java/warmup_1/Or35.java,4\8\488f525914dd5c929cdcb88bd680eded53110dc1
+S
+#src/main/java/warmup_1/Front22.java,2\f\2fc736a18047751f87d7e2a62402160da4dd5225
+S
+#src/main/java/warmup_1/StartHi.java,1\0\104af97eaac572214a566d144dfcec8735de0939
+R
+"src/main/java/warmup_1/IcyHot.java,1\2\12a076bb235cb90eed48ab3ddaa83a6b89a13f1d
+R
+"src/main/java/warmup_1/In1020.java,9\0\90698ec0aa9ecb1d7b746b69d483ec08e8b80fe6
+S
+#src/main/java/warmup_1/HasTeen.java,3\b\3bf409c73c4c0712498a6da07a8d6112901592a0
+T
+$src/main/java/warmup_1/LoneTeen.java,5\8\58595264b25a885ff7feb82e3b7d14234b828cda
